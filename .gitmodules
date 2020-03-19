@@ -1,0 +1,6 @@
+[submodule "test"]
+	path = test
+	url = https://github.com/KingOfTheDivan/test
+[submodule "Backup"]
+	path = Backup
+	url = https://github.com/KingOfTheDivan/Backup
